@@ -1,0 +1,6 @@
+{
+  "name": "Chiến Lược Không Gian Biển & Cảng Biển Vùng Kinh Tế Trọng Điểm Phía Nam",
+  "description": "Báo cáo tương tác và infographic động về 5 giải pháp chiến lược và 3 ưu tiên triển khai tại Cần Giờ - Gành Rái.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
